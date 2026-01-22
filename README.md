@@ -9,10 +9,10 @@ This template is not affiliated with Team ViolentMonkey & with Example.com. It w
 
 If you want to test the script, here is the extension to download. Please note that I know there are alternatives similar to Violent Monkey, but I have never really tested them, so I cannot guarantee that they will work.
 
-FireFox:
+FireFox 🦊:
 
 https://addons.mozilla.org/fr/firefox/addon/violentmonkey/
 
-Chrome:
+Chrome 🌐🔴🟡🟢🔵:
 
 https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag
