@@ -4,9 +4,9 @@
 // @match       https://example.com/
 // @grant       none
 // @version     1.0
-// @author      Your Name
+// @author      Your Name here example Stormwindsky
 // @description A simple template to modify example.com background and text.
-// @license     CC0 1.0
+// @license     MIT-0
 // ==/UserScript==
 
 (function() {
@@ -25,7 +25,7 @@
     // 3. Modify the link description
     const paragraph = document.querySelector('p');
     if (paragraph) {
-        paragraph.innerHTML = "This page has been modified by a <strong>CC0 Template</strong>.";
+        paragraph.innerHTML = "This page has been modified by a <strong>MIT-0 Template</strong>.";
     }
 
     console.log("Violentmonkey: example.com has been customized successfully.");

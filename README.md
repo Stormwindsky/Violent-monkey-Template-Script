@@ -1,8 +1,6 @@
 # Violent Monkey Template Script 🐵
 
-This is a CC0 1.0 licensed script for Violent Monkey that I created, which only modifies the Example.com web page.
-
-<div align="center"> <img title="Showcase" alt="Showcase" src="Example.png"> </div>
+This is a MIT-0 licensed script for Violent Monkey that I created, which only modifies the Example.com web page.
 
 
 This template is not affiliated with Team ViolentMonkey & with Example.com. It was created by Stormwindsky, who is not affiliated with the team.
@@ -11,7 +9,7 @@ If you want to test the script, here is the extension to download. Please note t
 
 # FireFox 🦊:
 
-https://addons.mozilla.org/fr/firefox/addon/violentmonkey/
+https://addons.mozilla.org/en/firefox/addon/violentmonkey/
 
 # Chrome 🌐🔴🟡🟢🔵:
 
